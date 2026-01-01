@@ -1,0 +1,56 @@
+condition,medicine
+Viral Fever,Paracetamol
+Viral Fever,ORS
+Viral Fever,Rest
+
+Common Cold,Cetirizine
+Common Cold,Steam Inhalation
+Common Cold,Saline Nasal Spray
+
+Flu,Paracetamol
+Flu,Ibuprofen
+Flu,Rest
+
+Migraine,Ibuprofen
+Migraine,Naproxen
+Migraine,Dark Room Rest
+
+Throat Infection,Lozenges
+Throat Infection,Warm Salt Water Gargle
+
+Bronchitis,Steam Inhalation
+Bronchitis,Expectorant Syrup
+
+Asthma,Salbutamol Inhaler
+Asthma,Breathing Exercises
+
+Acid Reflux,Antacid
+Acid Reflux,Omeprazole
+
+Food Poisoning,ORS
+Food Poisoning,Zinc Supplements
+
+UTI,Increased Water Intake
+UTI,Cranberry Extract
+
+Skin Allergy,Antihistamine Cream
+Skin Allergy,Cetirizine
+
+Arthritis,Ibuprofen
+Arthritis,Hot Compress
+
+Low Blood Pressure,Electrolyte Fluids
+Low Blood Pressure,Increased Salt Intake
+
+Dehydration,ORS
+Dehydration,Coconut Water
+
+Stress,Relaxation Techniques
+Stress,Deep Breathing Exercises
+
+Allergic Rhinitis,Antihistamines
+Allergic Rhinitis,Nasal Spray
+
+COVID-like Symptoms,Paracetamol
+COVID-like Symptoms,Isolation
+COVID-like Symptoms,Medical Consultation

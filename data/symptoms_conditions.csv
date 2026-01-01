@@ -1,0 +1,91 @@
+symptom,condition
+fever,Viral Fever
+high fever,Viral Fever
+low-grade fever,Viral Fever
+chills,Viral Fever
+body pain,Viral Fever
+fatigue,Viral Fever
+weakness,Viral Fever
+headache,Viral Fever
+
+runny nose,Common Cold
+sneezing,Common Cold
+nasal congestion,Common Cold
+mild cough,Common Cold
+sore throat,Common Cold
+
+dry cough,Flu
+high fever,Flu
+severe body pain,Flu
+fatigue,Flu
+chills,Flu
+
+headache,Migraine
+nausea,Migraine
+vomiting,Migraine
+sensitivity to light,Migraine
+throbbing pain,Migraine
+
+sore throat,Throat Infection
+difficulty swallowing,Throat Infection
+hoarseness,Throat Infection
+mild fever,Throat Infection
+
+cough,Bronchitis
+chest discomfort,Bronchitis
+fatigue,Bronchitis
+mild fever,Bronchitis
+
+shortness of breath,Asthma
+wheezing,Asthma
+chest tightness,Asthma
+night cough,Asthma
+
+chest pain,Acid Reflux
+heartburn,Acid Reflux
+sour taste,Acid Reflux
+bloating,Acid Reflux
+
+abdominal pain,Food Poisoning
+diarrhea,Food Poisoning
+vomiting,Food Poisoning
+nausea,Food Poisoning
+stomach cramps,Food Poisoning
+
+frequent urination,UTI
+burning urination,UTI
+lower abdominal pain,UTI
+cloudy urine,UTI
+
+itching,Skin Allergy
+rash,Skin Allergy
+redness,Skin Allergy
+swelling,Skin Allergy
+
+joint pain,Arthritis
+stiffness,Arthritis
+swollen joints,Arthritis
+
+dizziness,Low Blood Pressure
+blurred vision,Low Blood Pressure
+fainting,Low Blood Pressure
+
+excessive thirst,Dehydration
+dry mouth,Dehydration
+dark urine,Dehydration
+fatigue,Dehydration
+
+anxiety,Stress
+restlessness,Stress
+insomnia,Stress
+headache,Stress
+
+sneezing,Allergic Rhinitis
+itchy eyes,Allergic Rhinitis
+runny nose,Allergic Rhinitis
+
+loss of taste,COVID-like Symptoms
+loss of smell,COVID-like Symptoms
+dry cough,COVID-like Symptoms
+fever,COVID-like Symptoms
+fatigue,COVID-like Symptoms

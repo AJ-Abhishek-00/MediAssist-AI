@@ -9,10 +9,10 @@ along with commonly used medicines, enhanced by Gemini AI explanations.
 ## 🖥️ Application Preview
 
 ### 🔹 Streamlit User Interface
-![MediAssist AI UI](images/image1.png)
+![MediAssist AI UI](images/image1.png.png)
 
 ### 🔹 Backend API (FastAPI / Swagger)
-![MediAssist AI API](images/image2.png)
+![MediAssist AI API](images/image2.png.png)
 
 ---
 
